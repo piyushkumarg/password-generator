@@ -2,6 +2,8 @@
 
 This is a simple password generator application built using React.
 
+![image](https://github.com/piyushkumarg/password-generator/assets/83285872/87884050-6605-4327-a43b-547f5d9b5fd8)
+
 ## Installation
 
 1. Clone this repository.
@@ -27,6 +29,5 @@ This is a simple password generator application built using React.
 - `npm run build`: Builds the project for production.
 
 
-Feel free to adjust and expand this README to include more detailed information about your project, its features, and any specific instructions for users or contributors!
 
-![image](https://github.com/piyushkumarg/password-generator/assets/83285872/87884050-6605-4327-a43b-547f5d9b5fd8)
+
